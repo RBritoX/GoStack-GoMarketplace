@@ -19,7 +19,7 @@
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/gostack-gomarketplace">
 
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/6bb8593253154d30b91897fabc1ba4d8">
+  <img alt="Code quality" src="https://app.codacy.com/project/badge/Grade/d5ed915160fe471799c1d4619adff3fd">
 
   <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Github-Explorer">
 
@@ -44,11 +44,10 @@
 
 ## 📝 About the project
 GoMarketplace is an e-commerce application, designed to train the knowledge acquired in Bootcamp.
+<h3 align="center">
+  <img alt="GoMarketplace" src="https://user-images.githubusercontent.com/34657005/82595007-4a6a8900-9b7b-11ea-8971-28c34b51f79f.gif">
 
-![gomarketplace](https://user-images.githubusercontent.com/34657005/82595007-4a6a8900-9b7b-11ea-8971-28c34b51f79f.gif)
-![Captura de Tela 2020-05-21 às 15 54 55](https://user-images.githubusercontent.com/34657005/82595116-7423b000-9b7b-11ea-9735-3ff92af74e5e.png)
-![Captura de Tela 2020-05-21 às 15 55 04](https://user-images.githubusercontent.com/34657005/82595154-800f7200-9b7b-11ea-9ab2-f0eaa92c7fd4.png)
-
+</h3>
 
 ## 🛠 Technologies
 - **[React Native](https://reactnative.dev/)**
